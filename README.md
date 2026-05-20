@@ -1,1 +1,19 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=23962154)
+# Snake Game
+
+A simple web-based Snake game built with HTML, CSS, and JavaScript.
+
+## How to play
+
+1. Open `index.html` in a browser.
+2. Use the arrow keys to move the snake.
+3. Eat the red apple to grow and increase your score.
+4. Avoid hitting the walls or the snake's own body.
+
+## Files
+
+- `index.html` — game layout and canvas.
+- `game.js` — snake movement, game loop, scoring, and input handling.
+
+## Notes
+
+- Press `Enter` to restart after a game over.
